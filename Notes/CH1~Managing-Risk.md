@@ -219,25 +219,26 @@
 ### 了解控制類別與偽陰性/偽陽性
 
 當你發現想要處理的風險後，最好的做法應該是將其納入控制，以下是控制的類別與控制：
-| 控制類別 | 控制 |
-| ------------------- | ---------------------------------------------------------- |
-| 管理（Management） | 風險估計（Risk Assessment） |
-| 管理 | 計劃（Planning） |
-| 管理 | 系統與服務獲得（System and Services Acquisition） |
-| 管理 | 認證、鑑定與安全估計（Certification, Accreditation, and Security Assessment） |
-| 操作（Operational） | 員工安全（Personnel Security） |
-| 操作 | 實體與環境保護（Physical and Environmental Protection） |
-| 操作 | 意外準備（Contingency Planning） |
-| 操作 | 配置管理（Configuration Management） |
-| 操作 | 維護（Maintenance） |
-| 操作 | 系統與資訊完整性（System and Information Integrity） |
-| 操作 | 媒體保護（Media Protection） |
-| 操作 | 意外反應（Incident Response） |
-| 操作 | 察覺與訓練（Awareness and Training） |
-| 技術（Technical） | 識別和驗證（Identification and Authentication） |
-| 技術 | 存取控制（Access Control） |
-| 技術 | 稽核與責任制（Audit and Accountability） |
-| 技術 | 系統與聯繫保護（System and Communication Protection） |
+
+| 控制類別            | 控制                                                                          |
+| ------------------- | ----------------------------------------------------------------------------- |
+| 管理（Management）  | 風險估計（Risk Assessment）                                                   |
+| 管理                | 計劃（Planning）                                                              |
+| 管理                | 系統與服務獲得（System and Services Acquisition）                             |
+| 管理                | 認證、鑑定與安全估計（Certification, Accreditation, and Security Assessment） |
+| 操作（Operational） | 員工安全（Personnel Security）                                                |
+| 操作                | 實體與環境保護（Physical and Environmental Protection）                       |
+| 操作                | 意外準備（Contingency Planning）                                              |
+| 操作                | 配置管理（Configuration Management）                                          |
+| 操作                | 維護（Maintenance）                                                           |
+| 操作                | 系統與資訊完整性（System and Information Integrity）                          |
+| 操作                | 媒體保護（Media Protection）                                                  |
+| 操作                | 意外反應（Incident Response）                                                 |
+| 操作                | 察覺與訓練（Awareness and Training）                                          |
+| 技術（Technical）   | 識別和驗證（Identification and Authentication）                               |
+| 技術                | 存取控制（Access Control）                                                    |
+| 技術                | 稽核與責任制（Audit and Accountability）                                      |
+| 技術                | 系統與聯繫保護（System and Communication Protection）                         |
 
 當納入控制後就應該開始進行例行操作來排除那些風險。
 
